@@ -69,7 +69,7 @@ See it says in red   modified:    README.md
 
   > $ git push
 
-7.Create a new git branch named , by using `git branch`
+7.Create a new git branch name, by using `git branch`
 
   > $ git branch 914
 
@@ -80,3 +80,6 @@ See it says in red   modified:    README.md
 see master
 
   > $ git checkout 914
+
+
+Feeling like it's been a thousand year not using this 11/23
